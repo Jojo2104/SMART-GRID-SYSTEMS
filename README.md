@@ -245,10 +245,5 @@ Perfect for:
 
 ***
 
-## License
 
-MIT License - see [LICENSE](LICENSE) file for details.
 
-##
-
-[1] https://github.com/godseaishwaryaamtt/SGS/blob/main/README.md
