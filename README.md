@@ -12,7 +12,7 @@ This project presents three comprehensive experiments demonstrating the integrat
 - **Big Data Analytics Platform** - Machine learning and pattern recognition
 
 ***
-##How All Three Connect (The Big Picture)
+## How All Three Connect (The Big Picture)
 
 Data Flow Between Experiments:
 
