@@ -12,7 +12,7 @@ This project presents three comprehensive experiments demonstrating the integrat
 - **Big Data Analytics Platform** - Machine learning and pattern recognition
 
 ***
-How All Three Connect (The Big Picture)
+##How All Three Connect (The Big Picture)
 
 Data Flow Between Experiments:
 
@@ -21,7 +21,7 @@ Experiment 1 ensures reliable communication → Smart meters can send data to pr
 Experiment 2 generates pricing signals → This data becomes input for analytics
 
 Experiment 3 analyzes consumption patterns → Insights improve protocol deployment and pricing strategies
-
+***
 ## Experiment 1: Smart Grid Communication Protocol Analysis
 
 ### Objective
